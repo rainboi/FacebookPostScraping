@@ -103,6 +103,7 @@ for (let i = 0; i < posts.length; i++) {
 		}
 		console.log(i, posts.length);
 	}, 1000 * i);
+	//Adjust the timeout duration (1000)
 }
 
 function logPostData() {
